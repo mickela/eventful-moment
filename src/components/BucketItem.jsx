@@ -27,7 +27,7 @@ function BucketItem() {
                 </div>
                 <div className="page-actions">
                     <Link to="/edit-item" className="btn bg-green-400 text-center mr-4">Edit</Link>
-                    <button className="btn bg-red-400">Delete</button>
+                    <Link to="/bucket" className="btn bg-red-400 text-center">Delete</Link>
                 </div>
             </div>
             <Footer />

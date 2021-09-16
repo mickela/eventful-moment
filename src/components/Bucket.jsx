@@ -22,7 +22,7 @@ class Bucket extends React.Component{
                             </div>
                         </div> 
 
-                        <div class="grid grid-cols-2 gap-4 my-10">
+                        <div className="grid grid-cols-2 gap-4 my-10">
                             <BucketItemCard />
                             <BucketItemCard />
                             <BucketItemCard />
